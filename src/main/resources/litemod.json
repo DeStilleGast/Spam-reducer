@@ -1,0 +1,9 @@
+{
+  "name": "DSG Multitool",
+  "version": "0.1",
+  "mcversion": "1.12",
+  "revision": "410",
+  "mixinConfigs": [
+    "mixin.antispam.dsg.json"
+  ]
+}

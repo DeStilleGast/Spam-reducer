@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.5.3",
+  "package": "com.DeStilleGast.LiteLoader.AntiSpam.Mixin",
+  "refmap": "mixin.antispam.dsg.refmap.json",
+  "mixins": [
+    "IGuiNewChat"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
